@@ -1,1 +1,2 @@
 studying on git .
+learning some commands .
